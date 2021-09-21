@@ -2,7 +2,7 @@
 
 Simple python ffmpeg wrapper. Works on macOS. Has a nice folder icon.
 
-I made this because the Roland SPD-SX only takes 44.1khz 16bit .wav files and I had a hundreds to convert.
+I made this because the Roland SPD-SX only takes 44.1khz 16bit .wav files and I had hundreds to convert.
 
 - Put files to convert in the IN folder
 - Run CONVERT.command
